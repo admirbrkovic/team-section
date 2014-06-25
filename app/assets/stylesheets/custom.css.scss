@@ -214,163 +214,309 @@ h1 {
 	}
 }
 
-@media (min-width: 700px) and (max-width: 900px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .team2 {
+    h1 {
+      text-align: center;
+  font-family: helvetica;
+  color: grey;
+    }
+    .col-md-2 {
+      margin-top: 5px;
+    }
     .ceos {
-      width: 900px;
-      margin-left: -70px;
-    }
-    .info {
-      
-    }
-    .develop {
-      
-    }
-     .uxd {
-      background-size: 60%;
-       width: 900px;
-      margin-left: -70px;
-    }
+  margin-top: 20px;
+  img {
+    height: 150px;
+    width: 160px;
+
   }
-
-  @media (min-width: 300px) and (max-width: 700px) {
-    .ceos {
-    	.emplo2 {
-    		margin-top: 170px;
-    		margin-left: -145px;
-    	}
-    	.info1 {
-    		margin-left: 76px;
-    		width: 150px;
-
-    	}
-    	.info2 {
-    		margin-top: 170px;
-            width: 150px;
-            margin-left: -70px;
-    	}
-       
-      }
+  .info1 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
   
-
-    .develop {
-    	margin-top: 30px;
-       .emplo3 {
-          margin-left: 70px;
-       }
-        .emplo4 {
-        	margin-top: 170px;
-       	    margin-left: -74px;
-       }
-        .emplo5 {
-       	  margin-top: 340px;
-       	  margin-left: -218px;
-       }
-       .info3 {
-          width: 150px;
-          margin-left: 144px;
-       }
-        .info4 {
-        	margin-top: 170px;
-       	     width: 150px;
-       	     margin-left: 1px;
-       }
-        .info5 {
-       	   margin-top: 340px;
-       	   width: 150px;
-       	   margin-left: -140px;
-       }
-    }
-     .uxd {
-        .emplo6 {
-           margin-left: -3px;
-        }
-        .info6 {
-           width: 150px;
-           margin-left: 75px;
-           
-        }
-        .emplo7 {
-           margin-top: 170px;
-           margin-left: -147px;
-        }
-        .info7 {
-            width: 150px;
-            margin-top: 170px;
-            margin-left: -70px;
-        }
-    }
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
   }
-
-
-   @media (min-width: 50px) and (max-width: 299px) {
-    .ceos {
-    	.emplo2 {
-    		margin-top: 170px;
-    		margin-left: -80px;
-    		margin-top: 340px;
-    	}
-    	.info1 {
-    		margin-left: -41px;
-    		width: 150px;
-            margin-top: 150px;
-    	}
-    	.info2 {
-    		margin-top: 490px;
-            width: 150px;
-            margin-left: -121px;
-    	}
-       
-      }
+}
+ .info2 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
   
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}
 
-    .develop {
-    	margin-top: 30px;
-       .emplo3 {
-          margin-left: 70px;
-       }
-        .emplo4 {
-        	margin-top: 170px;
-       	    margin-left: -74px;
-       }
-        .emplo5 {
-       	  margin-top: 340px;
-       	  margin-left: -218px;
-       }
-       .info3 {
-          width: 150px;
-          margin-left: 144px;
-       }
-        .info4 {
-        	margin-top: 170px;
-       	     width: 150px;
-       	     margin-left: 1px;
-       }
-        .info5 {
-       	   margin-top: 340px;
-       	   width: 150px;
-       	   margin-left: -140px;
-       }
+  
+}
+
+.develop {
+  margin-top: 20px;
+  img {
+    height: 150px;
+    width: 160px;
+}
+ .info3 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
+  
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}  
+.info4 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
+  
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}  
+.info5 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
+  
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}  
+}
+
+.uxd {
+  margin-top: 20px;
+  img {
+    height: 150px;
+    width: 160px;
+}
+ .info6 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
+  
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}  
+.info7 {
+  background-color: #3986c0;
+  height: 150px;
+  margin-top: -10px;
+  width: 160px;
+  margin-left: -25px;
+  h5 {
+    color: white;
+    text-align: left;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  p {
+    color: white;
+    font-size: 12px; 
+    padding-left: 10px;
+  }
+  
+  i {
+    color: white;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-size: 16px;
+  }
+}  
+}
+
+
+
+@media (min-width: 50px) and (max-width: 350px) {
+    .ceos {
+      .info1 {
+        margin-left: 0px;
+      }
+      .info2 {
+        margin-left: 0px;
+      }
     }
-     .uxd {
-        .emplo6 {
-           margin-left: -3px;
-        }
-        .info6 {
-           width: 150px;
-           margin-left: 75px;
-           
-        }
-        .emplo7 {
-           margin-top: 170px;
-           margin-left: -147px;
-        }
-        .info7 {
-            width: 150px;
-            margin-top: 170px;
-            margin-left: -70px;
-        }
+    .develop {
+      .info3 {
+        margin-left: 0px;
+      }
+      .info4 {
+        margin-left: 0px;
+      }
+      .info5 {
+        margin-left: 0px;
+      }
+    }
+    .uxd {
+      .info6 {
+        margin-left: 0px;
+      }
+      .info7 {
+        margin-left: 0px;
+      }
     }
   }
+
+  @media (min-width: 351px) and (max-width: 990px) {
+    .ceos {
+      .info1 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+      .info2 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+    }
+    .develop {
+       .info3 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+       .info4 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+       .info5 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+    }
+     .uxd {
+        .info6 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+      .info7 {
+        margin-left: 160px;
+        margin-top: -160px;
+      }
+     }
+  }
+
+}
+
 
 
 
